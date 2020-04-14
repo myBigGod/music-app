@@ -1,39 +1,9 @@
-# Music Player by Vue Stack
+#### 演示地址 http://101.200.219.143:8083/
 
-## Static pages
+#### 获取歌曲排行
+![Image](https://github.com/myBigGod/images/blob/master/mu_home.jpg)
 
-https://github.com/zce/music-player-pages
+#### 歌曲播放，声音和歌词同步
+![Image](https://github.com/myBigGod/images/blob/master/mu_main.jpg)
 
-## Clone it
-
-```bash
-$ git clone https://github.com/zce/music-player.git -b vue --depth 1
-$ cd music-player
-```
-
-## Run it
-
-### Install Dependencies
-
-```bash
-$ npm install
-```
-
-### Server Side
-
-```bash
-$ npm run serve
-```
-
-visit http://localhost:2080/music/list in browser
-
-### Client Side
-
-Open another Terminal and run:
-
-```bash
-$ npm run client
-```
-
-visit http://localhost:3000 in browser
-
+完善...
